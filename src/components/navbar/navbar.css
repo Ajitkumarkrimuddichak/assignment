@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  font-size: 25px;
+}
+.navv {
+  background-color: black;
+  color: rgb(245, 108, 133);
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(144, 245, 243);
+}
+h1 {
+  background-color: azure;
+}
+.navbar {
+  background-color: rgb(61, 38, 38);
+}
+.nav-link {
+  color: rgb(227, 221, 221);
+  margin-right: 20px;
+}
+a:hover {
+  background-color: rgb(228, 52, 134);
+  border-radius: 10px;
+}
+.navbar-nav {
+  margin-left: 250px;
+}
+.logo {
+  color: white;
+  margin-left: 50px;
+}
